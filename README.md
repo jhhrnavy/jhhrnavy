@@ -9,6 +9,7 @@
 2022.11~2023.07 SBS아카데미게임학원 강남점 (게임콘텐츠제작)유니티게임프로그래머양성과정    
     
 <a href="https://unity.com/kr" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <!--
 **jhhrnavy/jhhrnavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
